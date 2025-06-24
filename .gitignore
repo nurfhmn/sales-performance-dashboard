@@ -1,0 +1,18 @@
+# Bytecode dosyaları
+__pycache__/
+*.py[cod]
+
+# IDE dosyaları
+.vscode/
+*.log
+
+# Jupyter defterleri
+.ipynb_checkpoints/
+
+# Ortam dosyaları
+.env
+.env.*
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
